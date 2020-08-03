@@ -1,7 +1,7 @@
 
 # flutter_ui_challenge_bankapp
 
-A new Flutter application.
+A new ui challenge using flutter
 
 ## Getting Started
 
